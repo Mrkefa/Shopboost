@@ -1,0 +1,70 @@
+#heading1{
+    text-align: center;
+    font-style: italic;
+    background-color: #ffea00;
+}
+.paragraph{
+    font-style: italic;
+    font-family: "Berlin Sans FB";
+}
+#heading2{
+    text-align: center;
+    background-color: #8b3f00;
+}
+#mydision{
+    background-color: chocolate;
+    margin: 25px;
+    padding: 15px;
+    color: azure;
+
+}
+#test{
+    background-color: rgba(93, 0, 139, 0.98);
+    margin: 30px;
+    margin: 25px;
+    color: azure;
+    display: flex;
+}
+#test img{
+}
+#main{
+    display: flex;
+}
+#test{
+    background-color: #3dd5f3;
+    margin: 40px;
+    padding: 30px;
+    display: flex;
+    color: white;
+}
+#test img{
+    margin-right: 40px;
+    border-radius: 400px;
+}
+#main{
+    display: flex;
+}
+#adv{
+    background-color: #0a53be;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 8px 6px 10px 5px saddlebrown;
+}
+#pay{
+    background-color: #0ab8be;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 8px 6px 10px 5px saddlebrown;
+}
+#Acc{
+    background-color: #0abe34;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 8px 6px 10px 5px #8b8913;
+}
+#adv:hover,#pay:hover,#Acc:hover{
+    background-color: #008b4c;
+}

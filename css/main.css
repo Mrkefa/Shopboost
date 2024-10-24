@@ -1,0 +1,8 @@
+h1{
+    color: darkred;text-align: center;background-color: black;line-height: 60px;
+    text-shadow: 12px 4px 15px #cd32bd;
+    font-size: 60px;
+}
+h1:hover{
+    background-color: blueviolet;
+}
